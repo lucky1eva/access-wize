@@ -1,0 +1,11 @@
+# --- Core ---
+Flask>=3.0
+Flask-CORS>=4.0
+Flask-SQLAlchemy>=3.0
+
+# --- LLM / API ---
+openai>=1.2.0
+
+# --- Runtime / Dev ---
+gunicorn>=21.2
+python-dotenv>=1.0
